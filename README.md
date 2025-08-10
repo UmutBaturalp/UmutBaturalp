@@ -56,3 +56,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/UmutBaturalp/UmutBaturalp/output/snake.svg" alt="Snake animation" />
+
+###
