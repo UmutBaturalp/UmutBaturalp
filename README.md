@@ -47,9 +47,7 @@
 
 ###
 
-![pacman contribution graph](https://cdn.jsdelivr.net/gh/UmutBaturalp/UmutBaturalp@output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
-![pacman contribution graph](https://cdn.jsdelivr.net/gh/UmutBaturalp/UmutBaturalp@output/pacman-contribution-graph.svg#gh-light-mode-only)
-
+<img src="https://cdn.jsdelivr.net/gh/UmutBaturalp/UmutBaturalp@output/pacman-contribution-graph-dark.svg" alt="pacman graph" />
 
 
 ###
