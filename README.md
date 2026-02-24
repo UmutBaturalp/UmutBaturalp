@@ -47,19 +47,9 @@
 
 ###
 
-<picture>
-  <!-- Dark -->
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://cdn.jsdelivr.net/gh/UmutBaturalp/UmutBaturalp@output/pacman-contribution-graph-dark.svg">
+![pacman contribution graph](https://cdn.jsdelivr.net/gh/UmutBaturalp/UmutBaturalp@output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
+![pacman contribution graph](https://cdn.jsdelivr.net/gh/UmutBaturalp/UmutBaturalp@output/pacman-contribution-graph.svg#gh-light-mode-only)
 
-  <!-- Light -->
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://cdn.jsdelivr.net/gh/UmutBaturalp/UmutBaturalp@output/pacman-contribution-graph.svg">
-
-  <!-- Fallback (raw) -->
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/UmutBaturalp/UmutBaturalp/output/pacman-contribution-graph.svg">
-</picture>
 
 
 ###
