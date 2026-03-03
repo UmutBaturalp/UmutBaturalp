@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! I'm Umut Baturalp </h3>
+<h3 align="center">Hi 👋! I'm Umut Baturalp</h3>
 
 ###
 
