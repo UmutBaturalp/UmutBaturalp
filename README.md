@@ -3,7 +3,7 @@
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&repeat=false&width=600&height=35&lines=Computer+Engineering+Student+%C2%B7+React+Native+Developer+%C2%B7+SaaS+Builder"
-    alt="Computer Engineering Student · React Native Developer · SaaS Builder"
+    alt="Computer Engineering · Mobile App Developer · SaaS Builder"
   />
 </p>
 
